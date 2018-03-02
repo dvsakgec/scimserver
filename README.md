@@ -5,7 +5,7 @@ https://tools.ietf.org/html/rfc7643
 Below is the plan of implementation of server
 1. Getting the REST APIs up with dummy data available for testing
 2. Writing the connectors either part of this service or separate service which writes/updates/deletes data to AD/Other LDAPs/Database
-   Priority order goes as:
+   Priority order goes as: <br>
       a. Database <br>
       b. Active Directory (AD) <br>
       c. OUD (Oracle Universal Directory) <br>
